@@ -17,4 +17,13 @@
 ![Alt text](images/222222.png)
 
 
+## Tech stack
+
+- HTML
+- CSS
+- PHP
+- JavaScript
+- Bootstrap
+- MySql
+
 
